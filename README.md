@@ -11,5 +11,4 @@
 
 ## Ejercicio 3
 
-- ...
-- ...
+- Se realiza una verificación de contraseña con 2 password diferentes. 

@@ -2,3 +2,27 @@ body{
     margin: 0;
     padding: 0;
 }
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+
+.numeros{
+    display: flex;
+}
+.space{
+    margin: 5px;
+}
+
+.boton{
+    margin-top: 20px;
+}
