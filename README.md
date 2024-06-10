@@ -6,8 +6,8 @@
 
 ## Ejercicio 2
 
-- ...
-- ...
+- Se implementa una página web que permite hacer pedidos de stickers. 
+- Se establece como restricción pedir a los más 10 stickers. 
 
 ## Ejercicio 3
 
